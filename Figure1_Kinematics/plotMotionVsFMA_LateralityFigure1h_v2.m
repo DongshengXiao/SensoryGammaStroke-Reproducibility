@@ -17,7 +17,7 @@ function plotMotionVsFMA_LateralityFigure1h_v2( ...
 % manuscript.
 % =========================================================================
 %
-% Generate a Figure 1h-style scatter/regression plot using the
+% Generate a Figure 1h scatter/regression plot using the
 % laterality-reclassified kinematic data in:
 %
 %   Kinematic_Laterality_Reanalysis.xlsx
