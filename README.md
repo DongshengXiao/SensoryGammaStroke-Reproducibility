@@ -8,7 +8,6 @@ Science Advances manuscript: **aeh9028**
 ## Author
 
 **Dongsheng Xiao, MD, PhD**  
-Queensland Brain Institute, The University of Queensland
 
 ## Contents
 
@@ -17,7 +16,6 @@ This repository currently contains MATLAB code used for the kinematic analyses a
 - **Figure 1f** — pre/post kinematic comparisons after laterality reclassification into clinically more-affected and less-affected limbs.
 - **Figure 1h** — correlations between post/pre kinematic ratios and post/pre Fugl-Meyer motor-score ratios.
 
-No Figure 2 EEG functional-connectivity code is included in this repository.
 
 ## Repository structure
 
