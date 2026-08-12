@@ -18,7 +18,7 @@ function compareStrokeMotionLateralityFigure1f( ...
 % manuscript.
 % =========================================================================
 %
-% Generate a Figure 1f-style violin plot using the laterality-reclassified
+% Generate a Figure 1f violin plot using the laterality-reclassified
 % kinematic data in Kinematic_Laterality_Reanalysis.xlsx.
 %
 % Data source:
